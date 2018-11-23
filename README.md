@@ -7,7 +7,8 @@ How to use this package:
 3. Build this package with command `python setup.py build`
 4. Install this package with command `python setup.py install`
 5. Test the package installed:
-  ```> import myModule
+  ```
+     > import myModule
      > dir(myModule)
      > myModule.helloworld()
      > myModule.fib(25)
